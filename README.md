@@ -18,15 +18,15 @@ Este é um simples jogo de adivinhação onde o usuário tenta adivinhar o núme
 
 Para rodar este projeto, você precisa ter o Python instalado em sua máquina.
 
-## Como rodar o jogo
+<!--## Como rodar o jogo
 
 1. Clone este repositório para o seu computador.
 2. Abra o terminal ou prompt de comando na pasta onde o arquivo está localizado.
-3. Execute o seguinte comando:
+3. Execute o seguinte comando: -->
 
 ## Melhorias Futuras
 
-Este projeto é simples, mas há melhorias e funcionalidades que podem ser adicionadas para torná-lo mais interessante, algumas ideias possíveis:
+Há melhorias e funcionalidades que podem ser adicionadas para torná-lo mais interessante, algumas ideias possíveis:
    
 ### 1. **Interface Gráfica (GUI) Melhorada**
    - Melhorar o design da interface gráfica;
