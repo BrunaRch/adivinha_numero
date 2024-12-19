@@ -9,13 +9,11 @@ Este é um simples jogo de adivinhação onde o usuário tenta adivinhar o núme
 3. O jogo informa se o chute foi muito baixo, muito alto ou correto.
 4. O jogo exibe o número de tentativas realizadas quando o usuário acerta.
 
-![Tela do jogo](imagens\tela_principal_do_jogo.jpeg")
+![Telas do jogo](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_principal_do_jogo.jpeg)
 
 ## Requisitos
 
 Para rodar este projeto, você precisa ter o Python instalado em sua máquina.
-
-![Requisitos do sistema](images/requisitos.png)
 
 ## Como rodar o jogo
 
