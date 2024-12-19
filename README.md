@@ -9,7 +9,7 @@ Este é um simples jogo de adivinhação onde o usuário tenta adivinhar o núme
 3. O jogo informa se o chute foi muito baixo, muito alto ou correto.
 4. O jogo exibe o número de tentativas realizadas quando o usuário acerta.
 
-![Tela do jogo](images/)
+![Tela do jogo](imagens\tela_principal_do_jogo.jpeg")
 
 ## Requisitos
 
