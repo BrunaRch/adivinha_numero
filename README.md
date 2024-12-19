@@ -10,6 +10,9 @@ Este é um simples jogo de adivinhação onde o usuário tenta adivinhar o núme
 4. O jogo exibe o número de tentativas realizadas quando o usuário acerta.
 
 ![Telas do jogo](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_principal_do_jogo.jpeg)
+[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/teala_chutealto.jpeg)
+[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_chutebaixo.jpeg)
+[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_tentativas.jpeg)
 
 ## Requisitos
 
