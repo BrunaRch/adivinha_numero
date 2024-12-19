@@ -9,10 +9,10 @@ Este é um simples jogo de adivinhação onde o usuário tenta adivinhar o núme
 3. O jogo informa se o chute foi muito baixo, muito alto ou correto.
 4. O jogo exibe o número de tentativas realizadas quando o usuário acerta.
 
-![Telas do jogo](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_principal_do_jogo.jpeg)
-[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/teala_chutealto.jpeg)
-[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_chutebaixo.jpeg)
-[](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_tentativas.jpeg)
+![Telas inicial](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_principal_do_jogo.jpeg)<br>
+![Telas do chute baixo](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/teala_chutealto.jpeg)
+![Telas do chute alto](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_chutebaixo.jpeg)
+![Telas do total das tentativas](https://github.com/BrunaRch/adivinha_numero/blob/main/imagens/tela_tentativas.jpeg)
 
 ## Requisitos
 
