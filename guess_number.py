@@ -51,7 +51,7 @@ def start_game():
 # Estilização da janela
 root = tk.Tk() 
 root.title("Jogo Advinhe o número")  
-root.geometry("600x600") 
+root.geometry("600x390") 
 
 # Cor da janela
 root.config(bg="#c1a1e2")
